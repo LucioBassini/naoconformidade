@@ -1,0 +1,11 @@
+databricks/
+ ├─ 01_bronze/
+ │ └─ .gitkeep
+ ├─ 02_silver/
+ │ └─ .gitkeep
+ └─ 03_gold/
+    └─ .gitkeep
+powerbi/
+ └─ .gitkeep
+docs/
+ └─ .gitkeep
